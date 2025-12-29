@@ -44,8 +44,12 @@ superstore-analytics/
 
 
 
+│ └── superstore.csv
 
-│ └── processed/
+
+
+
+│ │── processed/
 
 
 
@@ -65,7 +69,7 @@ superstore-analytics/
 
 
 
-│ └── superstore_analysis.ipynb
+│ └── superstore_eda.ipynb
 
 
 
@@ -75,7 +79,7 @@ superstore-analytics/
 
 
 
-│── superstore_dashboard.pbix
+│── superstore.pbix
 
 
 
