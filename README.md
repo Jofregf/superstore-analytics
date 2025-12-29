@@ -31,17 +31,65 @@ superstore-analytics/
 
 
 │
+
+
+
+
 ├── data/
+
+
+
+
 │ ├── raw/
+
+
+
+
 │ └── processed/
+
+
+
+
 │ └── superstore_processed.csv
+
+
+
+
 │
+
+
+
+
 ├── notebook/
+
+
+
+
 │ └── superstore_analysis.ipynb
+
+
+
+
 │
+
+
+
+
 │── superstore_dashboard.pbix
+
+
+
+
 │
+
+
+
+
 ├── documentation.md
+
+
+
+
 └── README.md
 
 ## 🔄 Data Preparation (Python)
