@@ -26,10 +26,11 @@ The goal of this project is to:
 
 ## 📂 Project Structure
 superstore-analytics/
+
+
+
+
 │
-
-
-
 ├── data/
 │ ├── raw/
 │ └── processed/
