@@ -27,12 +27,15 @@ The goal of this project is to:
 ## 📂 Project Structure
 superstore-analytics/
 │
+
+
+
 ├── data/
 │ ├── raw/
 │ └── processed/
 │ └── superstore_processed.csv
 │
-├── notebooks/
+├── notebook/
 │ └── superstore_analysis.ipynb
 │
 │── superstore_dashboard.pbix
